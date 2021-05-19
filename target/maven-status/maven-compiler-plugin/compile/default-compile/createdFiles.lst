@@ -1,0 +1,7 @@
+com\scrolltest\pages\loginPage.class
+com\scrolltest\utils\waitForHelper.class
+com\scrolltest\base\basePage.class
+com\scrolltest\utils\Log.class
+com\scrolltest\utils\PropertyReader.class
+com\scrolltest\utils\driverManager.class
+com\scrolltest\pages\dashboardPage.class
